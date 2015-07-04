@@ -1,0 +1,21 @@
+.container {
+	width: 350px;
+	text-align: center;
+}
+
+#inputVal {
+	text-align: center;
+}
+
+div {
+	padding: 1px;
+}
+
+#status {
+	height: 70px;
+}
+
+#remguess {
+	height: 40px;
+	padding-top: 10px;
+}
