@@ -8,14 +8,9 @@
 }
 
 div {
-	padding: 1px;
+	padding: 3px;
 }
 
 #status {
 	height: 70px;
-}
-
-#remguess {
-	height: 46px;
-	padding-top: 8px;
 }
